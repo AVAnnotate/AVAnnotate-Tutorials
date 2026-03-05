@@ -127,6 +127,10 @@
         {
           "category": "Notes",
           "tag": "Transcript"
+        },
+        {
+          "category": "Collaborations",
+          "tag": "AVAnnotate Collaborators"
         }
       ],
       "uuid": "8f729175-f207-422c-b0e1-aa0404b63ef7"
