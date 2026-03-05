@@ -39,6 +39,10 @@
         {
           "category": "About AVAnnotate",
           "tag": "IIIF"
+        },
+        {
+          "category": "Notes",
+          "tag": "Transcript"
         }
       ],
       "uuid": "1592e5be-d0a9-4fff-a00d-6150a2ef615b"
