@@ -123,6 +123,10 @@
         {
           "category": "Data Manager",
           "tag": "Events"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
         }
       ],
       "uuid": "2f85e6e0-3fec-4866-ae9e-87ec597a2c61"
