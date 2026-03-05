@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-03-05T17:28:14.243Z",
+  "created_by": "trentwintermeier",
+  "title": "01A - Importing Audiovisual Events in Data Manager",
+  "slug": "01a-importing-audiovisual-events-in-data-ma",
+  "updated_at": "2026-03-05T17:28:14.243Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "134a45f6-c008-4ddd-8e10-58db447fe721"
+  }
+}
