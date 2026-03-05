@@ -149,12 +149,12 @@
           "tag": "Transcript"
         },
         {
-          "category": "Collaborations",
-          "tag": "Collaborators"
-        },
-        {
           "category": "Get Started",
           "tag": "GitHub Accounts and Organizations"
+        },
+        {
+          "category": "Collaborations",
+          "tag": "AVAnnotate Collaborators"
         }
       ],
       "uuid": "a0664d8c-07d0-4f71-93fa-51874ad591fe"
