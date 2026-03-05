@@ -95,10 +95,6 @@
           "tag": "Private"
         },
         {
-          "category": "Collaborations",
-          "tag": "Collaborators"
-        },
-        {
           "category": "Data Manager",
           "tag": "Events"
         },
@@ -129,7 +125,7 @@
       ]
     },
     "created_at": "2026-03-05T17:27:15.783Z",
-    "updated_at": "2026-03-05T17:42:39.789Z",
+    "updated_at": "2026-03-05T17:43:52.024Z",
     "generate_pages_site": true
   },
   "annotations": {},
