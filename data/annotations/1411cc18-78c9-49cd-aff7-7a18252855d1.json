@@ -135,6 +135,10 @@
         {
           "category": "Data Manager",
           "tag": "Events"
+        },
+        {
+          "category": "Notes",
+          "tag": "Transcript"
         }
       ],
       "uuid": "44c0f4d3-0394-40e7-bf0a-7fe1d02b3a7f"
