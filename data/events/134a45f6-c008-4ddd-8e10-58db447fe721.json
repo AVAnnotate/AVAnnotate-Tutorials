@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "924dbe76-1f08-4707-9886-e56bc5d7f6b0": {
-      "label": "AV File 1",
+      "label": "01A - Importing Audiovisual Events in Data Manager",
       "file_url": "https://ia600806.us.archive.org/27/items/01-a-importing-audiovisual-eventsin-data-manager/01A_ImportingAudiovisualEventsinDataManager.mp4",
       "duration": 123,
       "file_type": "Video"
@@ -21,7 +21,10 @@
   "created_at": "2026-03-05T17:28:14.046Z",
   "created_by": "trentwintermeier",
   "label": "01A - Importing Audiovisual Events in Data Manager",
-  "updated_at": "2026-03-05T17:28:14.046Z",
+  "updated_at": "2026-03-05T17:43:30.358Z",
   "updated_by": "trentwintermeier",
-  "rights_statement": ""
+  "rights_statement": "",
+  "av_file_order": [
+    "924dbe76-1f08-4707-9886-e56bc5d7f6b0"
+  ]
 }
