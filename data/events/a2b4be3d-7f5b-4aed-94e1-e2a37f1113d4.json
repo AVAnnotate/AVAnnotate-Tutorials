@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "302f5207-aea3-42d4-879d-912cab611895": {
+      "label": "AV File 1",
+      "file_url": "https://ia601004.us.archive.org/7/items/01-b-adding-audiovisual-eventsin-data-manager/01B_AddingAudiovisualEventsinDataManager.mp4",
+      "duration": 144,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-05T17:28:41.712Z",
+  "created_by": "trentwintermeier",
+  "label": "01B - Creating Audiovisual Events in Data Manager",
+  "updated_at": "2026-03-05T17:28:41.712Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}

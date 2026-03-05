@@ -101,11 +101,27 @@
         {
           "category": "_uncategorized_",
           "tag": "Spreadsheet Templates"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "AV Items"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "IIIF"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Frequently Asked Questions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Creating Projects"
         }
       ]
     },
     "created_at": "2026-03-05T17:27:15.783Z",
-    "updated_at": "2026-03-05T17:28:14.280Z",
+    "updated_at": "2026-03-05T17:28:41.960Z",
     "generate_pages_site": true
   },
   "annotations": {},
