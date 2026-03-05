@@ -63,6 +63,10 @@
         {
           "category": "FAQ",
           "tag": "Frequently Asked Questions"
+        },
+        {
+          "category": "Notes",
+          "tag": "Transcript"
         }
       ],
       "uuid": "877b5b6e-5c78-4419-9f52-8c59ca9aa113"
