@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "51e9abb6-dc1f-44c9-882d-8608edde239c": {
+      "label": "AV File 1",
+      "file_url": "https://ia600106.us.archive.org/10/items/00-creating-an-avannotate-project/00_CreatingAnAVAnnotateProject.mp4",
+      "duration": 106,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-05T17:27:50.975Z",
+  "created_by": "trentwintermeier",
+  "label": "00 - Creating an AVAnnotate Project",
+  "updated_at": "2026-03-05T17:27:50.975Z",
+  "updated_by": "trentwintermeier",
+  "rights_statement": ""
+}

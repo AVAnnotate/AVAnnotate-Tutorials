@@ -39,11 +39,53 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "GitHub Account"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Shared Projects"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Navigation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "GitHub Organization"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Private Repository"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Public Repository"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collaborators"
+        }
+      ]
     },
     "created_at": "2026-03-05T17:27:15.783Z",
-    "updated_at": "2026-03-05T17:27:15.783Z",
+    "updated_at": "2026-03-05T17:27:51.363Z",
     "generate_pages_site": true
   },
   "annotations": {},
