@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-04-23T21:09:14.860Z",
+  "created_by": "trentwintermeier",
+  "title": "04 - Working with Auto-Generated Pages",
+  "slug": "04-working-with-auto-generated-pages",
+  "updated_at": "2026-04-23T21:09:14.860Z",
+  "updated_by": "trentwintermeier",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "9a217a95-137a-49af-8803-1b283d292be1"
+  }
+}
