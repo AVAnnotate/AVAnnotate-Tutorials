@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "6eb566e3-398f-48db-931a-ba281a88d3fe": {
+      "label": "07a - Publishing Projects via GitHub Pages",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia903206.us.archive.org/0/items/07-a-publishing-projectsvia-git-hub-pages/07A_PublishingProjectsviaGitHubPages.mp4",
+      "duration": 67,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "07a - Publishing Projects via GitHub Pages",
+  "av_file_order": [
+    "6eb566e3-398f-48db-931a-ba281a88d3fe"
+  ],
+  "created_at": "2026-04-28T17:07:33.951Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2026-04-28T17:07:33.951Z",
+  "updated_by": "trentwintermeier"
+}
