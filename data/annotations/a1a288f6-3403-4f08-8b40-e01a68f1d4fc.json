@@ -129,6 +129,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Tags"
         }
       ],
       "uuid": "083bfcc2-9a40-443d-ba32-8aebea26e2f6"
