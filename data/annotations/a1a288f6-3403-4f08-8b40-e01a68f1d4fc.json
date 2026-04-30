@@ -199,6 +199,10 @@
         {
           "category": "Data Manager",
           "tag": "Annotation Sets"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Time Stamps"
         }
       ],
       "uuid": "6f7a011f-f15a-4644-a328-4e99bdf41417"
