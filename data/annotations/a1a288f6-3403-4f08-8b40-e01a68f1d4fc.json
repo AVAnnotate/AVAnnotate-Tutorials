@@ -158,6 +158,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Bulk Uploading"
         }
       ],
       "uuid": "8cda023a-86f6-4138-9dbe-0730f12485cd"
