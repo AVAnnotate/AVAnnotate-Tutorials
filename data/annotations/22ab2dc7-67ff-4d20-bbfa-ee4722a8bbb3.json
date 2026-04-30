@@ -91,6 +91,30 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Time Stamps"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Tags"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Events"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Bulk Uploading"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Annotation Sets"
         }
       ],
       "uuid": "a1b64c0c-b35d-495d-a12b-e87a784e7c08"
