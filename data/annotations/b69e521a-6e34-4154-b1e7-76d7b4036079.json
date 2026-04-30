@@ -92,6 +92,10 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Custom Pages"
         }
       ],
       "uuid": "f76ec86f-b900-4a9b-b416-08a5ecfa65f0"
