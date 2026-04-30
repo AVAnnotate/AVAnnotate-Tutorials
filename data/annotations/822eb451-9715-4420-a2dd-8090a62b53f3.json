@@ -100,6 +100,10 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Auto-Generated Pages"
         }
       ],
       "uuid": "6edf2473-c855-4cd9-8b83-534369e9c9c5"
