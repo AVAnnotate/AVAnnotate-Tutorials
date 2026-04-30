@@ -133,6 +133,10 @@
         {
           "category": "Site Builder",
           "tag": "Custom Pages"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Time Stamps"
         }
       ],
       "uuid": "b1d2c653-bfd2-49af-9821-8abded9b3db1"
