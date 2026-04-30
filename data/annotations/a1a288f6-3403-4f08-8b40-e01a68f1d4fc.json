@@ -104,6 +104,10 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Tags"
         }
       ],
       "uuid": "330b1391-c85b-4aff-b574-6f652e801bdf"
