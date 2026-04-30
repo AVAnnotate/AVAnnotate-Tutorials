@@ -187,6 +187,18 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Events"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Bulk Uploading"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Annotation Sets"
         }
       ],
       "uuid": "6f7a011f-f15a-4644-a328-4e99bdf41417"
