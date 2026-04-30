@@ -125,6 +125,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Auto-Generated Pages"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Custom Pages"
         }
       ],
       "uuid": "b1d2c653-bfd2-49af-9821-8abded9b3db1"
