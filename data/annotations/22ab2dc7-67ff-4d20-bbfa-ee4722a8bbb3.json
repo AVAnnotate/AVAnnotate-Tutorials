@@ -54,6 +54,22 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Events"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Annotation Sets"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Bulk Uploading"
         }
       ],
       "uuid": "42ae2a24-a0d7-4f51-915c-af71b688a20d"
