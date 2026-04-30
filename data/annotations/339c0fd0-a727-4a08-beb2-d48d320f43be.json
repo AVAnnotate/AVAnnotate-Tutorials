@@ -137,6 +137,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Events"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Custom Pages"
         }
       ],
       "uuid": "ef76f281-6ec6-409e-9115-aa2faab7eec8"
