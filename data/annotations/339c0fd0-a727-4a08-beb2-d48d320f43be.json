@@ -67,6 +67,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Custom Pages"
+        },
+        {
+          "category": "Project Basics",
+          "tag": "AV Items"
         }
       ],
       "uuid": "d3d1de81-4e87-40fa-b83b-ef8361dbd47c"
