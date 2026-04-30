@@ -1,1 +1,112 @@
-{"annotations":[],"set":"Default","event_id":"9a217a95-137a-49af-8803-1b283d292be1","source_id":"41d8312c-7d85-4dfc-9a5f-28c3fbf3d9f5"}
+{
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this video we will introduce you to AVAnnotate’s Site Builder, which is where pages are added, edited, and organized for an AVAnnotate project. Pages may be created as auto-generated pages or custom pages. In this video, we will show you how to create an auto-generated page that includes an audiovisual event with an associated title, description, and annotations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bc42f288-aa21-48c1-aee1-f4bb06f65076"
+    },
+    {
+      "start_time": 26,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Navigate from the Data Manager section to Site Builder by selecting the tab. This page will show you all of the web pages that have been created for your AVAnnotate project. For this example, we will see a home or landing page (identified with the home icon), and a page for each audiovisual event. These pages have all been auto-generated, meaning that they will each be pre-populated with the data we have already imported into AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7c9ce5c8-df5c-4731-a6ce-69679d800d8c"
+    },
+    {
+      "start_time": 56,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is what an auto-generated page may look like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9cc7514b-943b-4ded-8ed7-308257862690"
+    },
+    {
+      "start_time": 61,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To add another auto-generated page, select the Add Page drop down and select Auto-Generated. You will then be prompted to select either a home page or audiovisual event to generate a page for. Select either, and then click Add. This will create a new auto-generated page."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6edf2473-c855-4cd9-8b83-534369e9c9c5"
+    },
+    {
+      "start_time": 81,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You will now see in Site Builder an auto-generated page. To disable an auto-generated page, select the three dots on the right side of the row, and then Disable Auto-Generation. This will create a blank page for your event, which you can add information to by following the details in the next video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b1d2c653-bfd2-49af-9821-8abded9b3db1"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9a217a95-137a-49af-8803-1b283d292be1",
+  "source_id": "41d8312c-7d85-4dfc-9a5f-28c3fbf3d9f5"
+}
