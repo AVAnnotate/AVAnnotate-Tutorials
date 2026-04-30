@@ -46,6 +46,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Project Basics",
+          "tag": "Documentation"
+        },
+        {
+          "category": "Data Manager",
+          "tag": "Spreadsheet Templates"
         }
       ],
       "uuid": "ed1ab1ad-a405-4db1-8b1e-2f34bf2d622e"
