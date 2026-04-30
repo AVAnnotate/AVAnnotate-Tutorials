@@ -108,7 +108,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Select Save (?) to add these changes to your AVAnnotate project."
+              "text": "Select Save to add these changes to your AVAnnotate project."
             }
           ]
         }
@@ -117,6 +117,10 @@
         {
           "category": "_uncategorized_",
           "tag": "Transcript"
+        },
+        {
+          "category": "Site Builder",
+          "tag": "Custom Pages"
         }
       ],
       "uuid": "686b0b9a-f0e3-44bf-a956-c3131280fae7"
