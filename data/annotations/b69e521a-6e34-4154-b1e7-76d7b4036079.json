@@ -1,1 +1,112 @@
-{"annotations":[],"set":"Default","event_id":"ce229b17-1949-41aa-a5ac-1d1ee4357541","source_id":"272c6759-a952-4d0c-9b3f-788df0d06c2b"}
+{
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This video will walk you through how to customize the appearance of blank pages. To see examples of how others have customized pages in their AVAnnotate projects, see the AVAnnotate documentation and website."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "10329c1b-994b-433a-8dd2-86f8ae12ec2b"
+    },
+    {
+      "start_time": 16,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To customize a new blank page in your project, you’ll use the text editor. From left to right, the options are as follows: select page layout via column width and horizontal lines; undo/redo work; select text and header format via the dropdown menu; bold, italic, underline, and strikethrough options; insert code; insert quote block; change the color of the text background and text itself; insert numbered or bulleted lists; create a table of contents; justify text; and insert a link or image."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4cfe506d-8405-44bc-bebe-a38bb8599647"
+    },
+    {
+      "start_time": 55,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you insert columns into the page, you’re changing where media will be placed on the page by splitting the page into differently-sized columns. You can customize what goes into the columns using the rest of the text editor features."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cf35e02e-8a44-4c41-8d44-7721236d87b8"
+    },
+    {
+      "start_time": 70,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Insert images into the blank page using the rightmost button. Remember that AVAnnotate does not store your media files, but rather references them via URL. This means images you add to a custom page should be referenced via the image link address, rather than a file saved on your personal device."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f76ec86f-b900-4a9b-b416-08a5ecfa65f0"
+    },
+    {
+      "start_time": 90,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Select Save (?) to add these changes to your AVAnnotate project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Notes",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "686b0b9a-f0e3-44bf-a956-c3131280fae7"
+    }
+  ],
+  "set": "Default",
+  "event_id": "ce229b17-1949-41aa-a5ac-1d1ee4357541",
+  "source_id": "272c6759-a952-4d0c-9b3f-788df0d06c2b"
+}
