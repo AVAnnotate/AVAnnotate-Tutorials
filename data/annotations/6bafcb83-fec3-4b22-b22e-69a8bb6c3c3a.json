@@ -1,5 +1,195 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para crear un nuevo proyecto en AVAnnotate, primero asegúrate de estar en la página My Projects. Shared Projects muestra los proyectos que otros usuarios han creado y a los que te han dado acceso, mientras que My Projects te permite crear nuevos proyectos en tu propia cuenta de GitHub."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f4516e6d-81c5-498e-8455-835bc2b8bdb6"
+    },
+    {
+      "start_time": 15,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Selecciona Add Project. A continuación, introduciremos algunos datos sobre tu nuevo proyecto. Primero, usa el menú desplegable para seleccionar el nombre de la organización de GitHub a la que pertenecerá el proyecto. Probablemente sea tu nombre de usuario de GitHub, aunque también puede ser un repositorio de equipo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "853217ac-37d4-4d08-b9aa-4d188dc5f5ab"
+    },
+    {
+      "start_time": 29,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuación, decide si el proyecto será de acceso público. Seleccionar Private Repository garantiza que el proyecto no se publique en línea. Puedes cambiar esta configuración de acceso más adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0cb37302-2481-4c8b-898e-c78f18934f22"
+    },
+    {
+      "start_time": 39,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después, introduce un título y una breve descripción para tu proyecto. Hemos copiado esta descripción de otra versión del proyecto, pero puedes escribir directamente en el campo de descripción."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "fc486d2d-147e-431e-8393-9f8bba25e4d9"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luego, selecciona el idioma en el que crearás el proyecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "bb2c3df6-4de4-4601-9c95-c620fba7b7bd"
+    },
+    {
+      "start_time": 52,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora introduce un slug para el proyecto. Un slug es la última parte de una URL y sirve como identificador único del proyecto. Procura que sea relativamente corto y que no contenga espacios. Usa únicamente caracteres alfanuméricos, aunque también puedes utilizar guiones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "8c4b6148-087d-437f-99f7-eaf6e3f59bc9"
+    },
+    {
+      "start_time": 66,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuación, añade los nombres de las personas que contribuyen al proyecto. Esta información aparecerá al pie de tu proyecto terminado de AVAnnotate, como una firma de autoría."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "586a54fd-5420-4fb2-826a-ca5f198f0587"
+    },
+    {
+      "start_time": 75,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por último, tendrás la opción de añadir a otros usuarios de GitHub para que colaboren en tu proyecto. Para ello, necesitarás el nombre de usuario de GitHub de cada colaborador. Añadir colaboradores permite que otros usuarios accedan a la parte de administración de tu proyecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "3d0436bb-8194-4018-9e89-a28314921790"
+    },
+    {
+      "start_time": 89,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para terminar, guarda esta información y crea el nuevo proyecto seleccionando Create Project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "4145e6c4-2b4f-49f6-bbeb-dc79b8f5b1e5"
+    }
+  ],
   "event_id": "23d883d3-5050-44c2-8e35-1938e72c0ace",
   "set": "Spanish",
   "source_id": "51e9abb6-dc1f-44c9-882d-8608edde239c"
