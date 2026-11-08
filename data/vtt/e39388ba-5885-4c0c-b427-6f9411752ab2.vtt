@@ -1,0 +1,29 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:15.000
+To create a new project in AVAnnotate, first ensure you are on the “My Projects” page. “Shared Projects” indicates projects that other users have created and shared access with you, while “My Projects” allows you to create new projects under your own GitHub account.
+
+00:00:15.000 --> 00:00:28.000
+Select “Add Project,” and then we’re going to enter some information about your new project. First, use the dropdown to select the name of the GitHub Organization that the project will belong to. This will likely be your GitHub username, though it can also be a team repository.
+
+00:00:29.000 --> 00:00:39.000
+Next, you’ll make a selection about the project’s public accessibility. Selecting a Private Repository ensures that the project is not published online. You can switch this access setting later.
+
+00:00:39.000 --> 00:00:48.000
+Next, enter a title for your project, and a brief description. We copied this description from another version of this project, but you can type directly into the description field.
+
+00:00:49.000 --> 00:00:51.000
+Then, select the language you’ll build the project in.
+
+00:00:52.000 --> 00:01:05.000
+Now enter a project slug. A slug is the last part of a URL that serves as a unique identifier for the project. You want the slug to be relatively short and without spaces. Use alphanumeric characters only, though hyphens are fine.
+
+00:01:06.000 --> 00:01:14.000
+Next add the names of any project contributors. This information will appear at the bottom of your completed AVAnnotate project, like an author byline.
+
+00:01:15.000 --> 00:01:28.000
+Finally, you’ll have the opportunity to add other GitHub contributors to collaborate on your project. To do this, you’ll need your collaborator’s GitHub username. Adding collaborators lets other users have access to the backend of your project.
+
+00:01:29.000 --> 00:01:34.000
+Finally, save this information and create the new project by selecting “Create Project.”
+
