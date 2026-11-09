@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:25.000
+In this video we will introduce you to AVAnnotate’s Site Builder, which is where pages are added, edited, and organized for an AVAnnotate project. Pages may be created as auto-generated pages or custom pages. In this video, we will show you how to create an auto-generated page that includes an audiovisual event with an associated title, description, and annotations.
+
+00:00:26.000 --> 00:00:55.000
+Navigate from the Data Manager section to Site Builder by selecting the tab. This page will show you all of the web pages that have been created for your AVAnnotate project. For this example, we will see a home or landing page (identified with the home icon), and a page for each audiovisual event. These pages have all been auto-generated, meaning that they will each be pre-populated with the data we have already imported into AVAnnotate.
+
+00:00:56.000 --> 00:01:00.000
+This is what an auto-generated page may look like.
+
+00:01:01.000 --> 00:01:20.000
+To add another auto-generated page, select the Add Page drop down and select Auto-Generated. You will then be prompted to select either a home page or audiovisual event to generate a page for. Select either, and then click Add. This will create a new auto-generated page.
+
+00:01:21.000 --> 00:01:40.000
+You will now see in Site Builder an auto-generated page. To disable an auto-generated page, select the three dots on the right side of the row, and then Disable Auto-Generation. This will create a blank page for your event, which you can add information to by following the details in the next video.
+
