@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este video, te presentaremos Site Builder de AVAnnotate, la sección donde se añaden, editan y organizan las páginas de un proyecto. Las páginas pueden crearse de forma automática o personalizada. En este video, te mostraremos cómo crear una página generada automáticamente que incluya un evento audiovisual con su título, descripción y anotaciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f26ba62b-ea34-4628-bd12-1310d7f7bc58"
+    },
+    {
+      "start_time": 26,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde la sección Data Manager, selecciona la pestaña Site Builder. Esta pantalla te mostrará todas las páginas web creadas para tu proyecto de AVAnnotate. En este ejemplo, veremos una página de inicio, identificada con el icono de una casa, y una página para cada evento audiovisual. Todas estas páginas se han generado automáticamente, por lo que ya contienen los datos que hemos importado en AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "39f6fda9-07e6-4449-8820-64761938328f"
+    },
+    {
+      "start_time": 56,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este es un ejemplo del aspecto que puede tener una página generada automáticamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f8803262-7b3a-49fb-9a4c-eb8758fbb858"
+    },
+    {
+      "start_time": 61,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para añadir otra página generada automáticamente, abre el menú desplegable Add Page y selecciona Auto-Generated. A continuación, se te pedirá que elijas si quieres generar una página de inicio o una página para un evento audiovisual. Elige una de las opciones y haz clic en Add. Así se creará una nueva página generada automáticamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "52b40bbb-6d21-4caa-a31e-79a088b7cff2"
+    },
+    {
+      "start_time": 81,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora verás una página generada automáticamente en Site Builder. Para desactivar la generación automática de una página, selecciona los tres puntos a la derecha de la fila y, después, Disable Auto-Generation. Esto creará una página en blanco para tu evento, a la que podrás añadir información siguiendo las instrucciones del próximo video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0a08fda3-31bb-4db9-95d6-9bf144752083"
+    }
+  ],
   "event_id": "9a217a95-137a-49af-8803-1b283d292be1",
   "set": "Español",
   "source_id": "41d8312c-7d85-4dfc-9a5f-28c3fbf3d9f5"
