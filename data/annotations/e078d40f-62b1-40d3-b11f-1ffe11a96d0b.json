@@ -1,5 +1,153 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez creado tu proyecto de AVAnnotate, el siguiente paso es vincular los eventos audiovisuales al proyecto. En esta pantalla, verás que la interfaz de AVAnnotate se divide en dos secciones principales: Data Manager y Site Builder. Esta última se explica en un video posterior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "fab6b2bf-c154-45b1-abb8-7c515ff478b5"
+    },
+    {
+      "start_time": 19,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la sección Data Manager, quien crea un proyecto puede importar, cargar, editar y añadir todos los datos asociados a las anotaciones, los eventos y las etiquetas. La pestaña Events permite cargar, crear y editar eventos. Los eventos son un elemento conceptual central de un proyecto de AVAnnotate y pueden incluir uno o más archivos audiovisuales, a los que se pueden asociar anotaciones con marcas de tiempo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "ec723bb9-8496-4064-bd29-ca6f3eebe000"
+    },
+    {
+      "start_time": 43,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La pestaña Tags permite cargar, crear y editar etiquetas y grupos de etiquetas para todo el proyecto. Las etiquetas se utilizan en un proyecto publicado de AVAnnotate para indexar, organizar y descubrir temas en las anotaciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "061d42f8-2d3d-4405-b1a1-d7bbcf7f4192"
+    },
+    {
+      "start_time": 56,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Primero, debemos añadir un evento seleccionando Add y, después, Import. Al importar un evento, le indicas a AVAnnotate que ya tienes un archivo con toda la información necesaria para que la aplicación pueda hacer referencia a tu archivo audiovisual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "19bd2724-ea25-4131-9f85-f0121fa5601b"
+    },
+    {
+      "start_time": 72,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para ello, recomendamos usar la plantilla de eventos de AVAnnotate, disponible en nuestro sitio web. Esta plantilla es una hoja de cálculo descargable con campos para introducir el nombre del evento, el tipo de elemento, el nombre del archivo, su URL y, de forma opcional, una referencia bibliográfica y una descripción."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "45b89ea0-6229-4eec-b7ff-e9e31f27d087"
+    },
+    {
+      "start_time": 90,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez que hayas completado la hoja de cálculo de eventos y la hayas seleccionado para cargarla en AVAnnotate, se te pedirá que configures los datos del archivo. Esto permite comprobar que AVAnnotate los interpreta correctamente. Usa los menús desplegables para establecer la correspondencia con la información de tu hoja de cálculo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "ce8598bf-6d1c-49f8-8982-412eca662def"
+    },
+    {
+      "start_time": 113,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez configurados los datos, debería aparecer la opción Import. Selecciona Import y, después, Save Event."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "752e48ca-2323-4a78-bba6-ee7843c819c7"
+    }
+  ],
   "event_id": "134a45f6-c008-4ddd-8e10-58db447fe721",
   "set": "Español",
   "source_id": "924dbe76-1f08-4707-9886-e56bc5d7f6b0"

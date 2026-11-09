@@ -1,2 +1,23 @@
 WEBVTT
 
+00:00:02.000 --> 00:00:18.000
+Una vez creado tu proyecto de AVAnnotate, el siguiente paso es vincular los eventos audiovisuales al proyecto. En esta pantalla, verás que la interfaz de AVAnnotate se divide en dos secciones principales: Data Manager y Site Builder. Esta última se explica en un video posterior.
+
+00:00:19.000 --> 00:00:42.000
+En la sección Data Manager, quien crea un proyecto puede importar, cargar, editar y añadir todos los datos asociados a las anotaciones, los eventos y las etiquetas. La pestaña Events permite cargar, crear y editar eventos. Los eventos son un elemento conceptual central de un proyecto de AVAnnotate y pueden incluir uno o más archivos audiovisuales, a los que se pueden asociar anotaciones con marcas de tiempo.
+
+00:00:43.000 --> 00:00:55.000
+La pestaña Tags permite cargar, crear y editar etiquetas y grupos de etiquetas para todo el proyecto. Las etiquetas se utilizan en un proyecto publicado de AVAnnotate para indexar, organizar y descubrir temas en las anotaciones.
+
+00:00:56.000 --> 00:01:11.000
+Primero, debemos añadir un evento seleccionando Add y, después, Import. Al importar un evento, le indicas a AVAnnotate que ya tienes un archivo con toda la información necesaria para que la aplicación pueda hacer referencia a tu archivo audiovisual.
+
+00:01:12.000 --> 00:01:29.000
+Para ello, recomendamos usar la plantilla de eventos de AVAnnotate, disponible en nuestro sitio web. Esta plantilla es una hoja de cálculo descargable con campos para introducir el nombre del evento, el tipo de elemento, el nombre del archivo, su URL y, de forma opcional, una referencia bibliográfica y una descripción.
+
+00:01:30.000 --> 00:01:46.000
+Una vez que hayas completado la hoja de cálculo de eventos y la hayas seleccionado para cargarla en AVAnnotate, se te pedirá que configures los datos del archivo. Esto permite comprobar que AVAnnotate los interpreta correctamente. Usa los menús desplegables para establecer la correspondencia con la información de tu hoja de cálculo.
+
+00:01:53.000 --> 00:01:58.000
+Una vez configurados los datos, debería aparecer la opción Import. Selecciona Import y, después, Save Event.
+
