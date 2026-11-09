@@ -1,0 +1,29 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:15.000
+Para crear un nuevo proyecto en AVAnnotate, primero asegúrate de estar en la página My Projects. Shared Projects muestra los proyectos que otros usuarios han creado y a los que te han dado acceso, mientras que My Projects te permite crear nuevos proyectos en tu propia cuenta de GitHub.
+
+00:00:15.000 --> 00:00:28.000
+Selecciona Add Project. A continuación, introduciremos algunos datos sobre tu nuevo proyecto. Primero, usa el menú desplegable para seleccionar el nombre de la organización de GitHub a la que pertenecerá el proyecto. Probablemente sea tu nombre de usuario de GitHub, aunque también puede ser un repositorio de equipo.
+
+00:00:29.000 --> 00:00:39.000
+A continuación, decide si el proyecto será de acceso público. Seleccionar Private Repository garantiza que el proyecto no se publique en línea. Puedes cambiar esta configuración de acceso más adelante.
+
+00:00:39.000 --> 00:00:48.000
+Después, introduce un título y una breve descripción para tu proyecto. Hemos copiado esta descripción de otra versión del proyecto, pero puedes escribir directamente en el campo de descripción.
+
+00:00:49.000 --> 00:00:51.000
+Luego, selecciona el idioma en el que crearás el proyecto.
+
+00:00:52.000 --> 00:01:05.000
+Ahora introduce un slug para el proyecto. Un slug es la última parte de una URL y sirve como identificador único del proyecto. Procura que sea relativamente corto y que no contenga espacios. Usa únicamente caracteres alfanuméricos, aunque también puedes utilizar guiones.
+
+00:01:06.000 --> 00:01:14.000
+A continuación, añade los nombres de las personas que contribuyen al proyecto. Esta información aparecerá al pie de tu proyecto terminado de AVAnnotate, como una firma de autoría.
+
+00:01:15.000 --> 00:01:28.000
+Por último, tendrás la opción de añadir a otros usuarios de GitHub para que colaboren en tu proyecto. Para ello, necesitarás el nombre de usuario de GitHub de cada colaborador. Añadir colaboradores permite que otros usuarios accedan a la parte de administración de tu proyecto.
+
+00:01:29.000 --> 00:01:34.000
+Para terminar, guarda esta información y crea el nuevo proyecto seleccionando Create Project.
+
