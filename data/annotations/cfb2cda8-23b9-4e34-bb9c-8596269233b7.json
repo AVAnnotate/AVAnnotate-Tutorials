@@ -152,27 +152,6 @@
       "uuid": "ab02f2fb-c2b7-4bde-baa3-29d750a2848d"
     },
     {
-      "start_time": 2,
-      "end_time": 18,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Una vez creado tu proyecto de AVAnnotate, el siguiente paso es vincular los eventos audiovisuales al proyecto. En esta pantalla, verás que la interfaz de AVAnnotate se divide en dos secciones principales: Data Manager y Site Builder. Esta última se explica en un video posterior."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "92ac0a6e-938e-4181-a9d0-59f7485c724f"
-    },
-    {
       "start_time": 19,
       "end_time": 42,
       "annotation": [
