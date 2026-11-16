@@ -143,27 +143,6 @@
         }
       ],
       "uuid": "e751b8b8-88e9-4b65-ace8-b14e056005a6"
-    },
-    {
-      "start_time": 70,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Para terminar, selecciona Save para añadir la anotación al archivo audiovisual."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "daf04cfb-20ad-4604-96c5-6940fe44bd7b"
     }
   ],
   "set": "English",
