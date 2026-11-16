@@ -1,5 +1,132 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este video, te enseñaremos a crear páginas personalizadas para tu proyecto de AVAnnotate. La función de página en blanco permite estructurar y diseñar el proyecto más allá del formato predefinido de las páginas generadas automáticamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0959c183-afaa-4650-9a43-8eb6707df6a3"
+    },
+    {
+      "start_time": 18,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la pestaña Site Builder, selecciona Add Page y, después, Blank Page. Esto creará una página completamente personalizable que puedes utilizar para presentar de otra manera los eventos audiovisuales que ya has creado o para añadir nuevas páginas con ensayos, imágenes u otros materiales relacionados con tu proyecto. También puedes usar una página personalizada para crear una bibliografía, comparar fragmentos de tus eventos audiovisuales o mostrar tus eventos junto a otros materiales relacionados."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "ad0e3b0d-9698-41bc-a513-84077fe34c7d"
+    },
+    {
+      "start_time": 49,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez creada la página en blanco, asígnale un título. Puedes editarlo en cualquier momento. También puedes asignarle una página superior. Cuando creas una nueva página en blanco, no estará asociada a ningún evento concreto del proyecto hasta que la asignes manualmente mediante el menú desplegable Parent Page. Seleccionar No Parent permite que la nueva página sea independiente dentro del proyecto. Si le asignas una página superior, la nueva página quedará subordinada a ella y aparecerá debajo de esa página en el índice del proyecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "b43dc3b5-78e8-4075-8518-9d29f05cf204"
+    },
+    {
+      "start_time": 85,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por ejemplo, si utilizara esta página en blanco para presentar materiales adicionales que quisiera asociar a un evento concreto, seleccionaría la página existente de ese evento audiovisual como página superior de la nueva página. De este modo, la función de página en blanco permite estructurar un proyecto y establecer relaciones entre distintas páginas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "5505a78e-53ca-4d97-93ce-d5b887f92e09"
+    },
+    {
+      "start_time": 106,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para añadir un evento existente a una página personalizada, selecciona Insert y, después, Embed AV. Podrás seleccionar uno de tus eventos audiovisuales y elegir qué elementos del evento quieres mostrar en la página en blanco. De forma predeterminada, se incluirán las anotaciones, el nombre y la descripción que introdujiste al crear el evento, pero puedes incluir o excluir cualquiera de estos elementos al insertar el evento en una página personalizada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "9335e494-ef28-4025-9fd8-8e9932b82d57"
+    },
+    {
+      "start_time": 136,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Además, puedes incluir solo un fragmento de un evento y seleccionar los tiempos de inicio y finalización del fragmento que quieras mostrar en la nueva página en blanco. También puedes insertar varios fragmentos uno al lado del otro. Selecciona Insert y, después, Compare AV, y sigue los mismos pasos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f35c2fcf-c6c6-4a21-889f-a6a72a86273e"
+    }
+  ],
   "event_id": "53756706-ba72-4c12-8180-b9bb1188e979",
   "set": "Español",
   "source_id": "bf40e974-faf1-4b09-8f4e-095dfec08340"
