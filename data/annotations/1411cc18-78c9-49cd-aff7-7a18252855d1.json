@@ -182,27 +182,6 @@
         }
       ],
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
-    },
-    {
-      "start_time": 138,
-      "end_time": 141,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Para terminar de crear tu evento, selecciona Save."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "62fc5cbd-d50e-473a-be8d-882309efafb6"
     }
   ]
 }
