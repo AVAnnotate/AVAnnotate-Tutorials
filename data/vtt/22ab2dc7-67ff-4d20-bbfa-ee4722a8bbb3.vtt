@@ -12,3 +12,15 @@ First, add the start time of your annotation using the format of HH:MM:SS. In th
 00:01:10.000 --> 00:01:15.000
 Lastly, select Save to add your annotation to the audiovisual file.
 
+00:00:03.000 --> 00:00:18.000
+La segunda opción para cargar anotaciones en un evento audiovisual de AVAnnotate es añadirlas individualmente. Esta opción no requiere una hoja de cálculo. Puedes añadir anotaciones individuales mediante la opción Add de un evento audiovisual.
+
+00:00:19.000 --> 00:00:34.000
+Para añadir una anotación, ve a la sección Data Manager de AVAnnotate y selecciona un evento audiovisual. Después, selecciona el botón Add y crea una anotación. Aparecerá un recuadro en el que podrás introducir la información de la anotación que quieras añadir.
+
+00:00:35.000 --> 00:01:08.000
+Primero, introduce el tiempo de inicio de la anotación en el formato HH:MM:SS. En el campo End Time, introduce el tiempo de finalización usando el mismo formato. Debajo, puedes escribir la anotación directamente en el recuadro y utilizar los botones de la parte superior para dar formato al texto. Por último, añade al menos una etiqueta a la anotación seleccionándola en el menú desplegable. Ten en cuenta que debes haber añadido previamente esa etiqueta a AVAnnotate siguiendo las instrucciones del video 2a o 2b.
+
+00:01:10.000 --> 00:01:15.000
+Para terminar, selecciona Save para añadir la anotación al archivo audiovisual.
+

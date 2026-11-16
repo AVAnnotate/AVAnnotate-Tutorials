@@ -143,6 +143,90 @@
         }
       ],
       "uuid": "e751b8b8-88e9-4b65-ace8-b14e056005a6"
+    },
+    {
+      "start_time": 3,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La segunda opción para cargar anotaciones en un evento audiovisual de AVAnnotate es añadirlas individualmente. Esta opción no requiere una hoja de cálculo. Puedes añadir anotaciones individuales mediante la opción Add de un evento audiovisual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "27048343-cceb-45ed-ac35-4fc27780214d"
+    },
+    {
+      "start_time": 19,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para añadir una anotación, ve a la sección Data Manager de AVAnnotate y selecciona un evento audiovisual. Después, selecciona el botón Add y crea una anotación. Aparecerá un recuadro en el que podrás introducir la información de la anotación que quieras añadir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "28c09aee-d0de-4726-80af-606a68a121f9"
+    },
+    {
+      "start_time": 35,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Primero, introduce el tiempo de inicio de la anotación en el formato HH:MM:SS. En el campo End Time, introduce el tiempo de finalización usando el mismo formato. Debajo, puedes escribir la anotación directamente en el recuadro y utilizar los botones de la parte superior para dar formato al texto. Por último, añade al menos una etiqueta a la anotación seleccionándola en el menú desplegable. Ten en cuenta que debes haber añadido previamente esa etiqueta a AVAnnotate siguiendo las instrucciones del video 2a o 2b."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "2f25d233-13ba-4283-a326-4c4f1c36bcf7"
+    },
+    {
+      "start_time": 70,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para terminar, selecciona Save para añadir la anotación al archivo audiovisual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "daf04cfb-20ad-4604-96c5-6940fe44bd7b"
     }
   ],
   "set": "English",
