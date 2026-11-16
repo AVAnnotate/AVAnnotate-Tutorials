@@ -24,9 +24,6 @@ Sometimes AVAnnotate can read the duration straight from the file link, though o
 00:02:18.000 --> 00:02:21.000
 To finalize your event, select “Save.”
 
-00:00:03.000 --> 00:00:20.000
-El video 1a muestra cómo añadir un evento audiovisual cargando una hoja de cálculo completa con información sobre el evento. En este video, te mostraremos cómo crear un evento directamente en AVAnnotate sin cargar una hoja de cálculo. Para crear un evento, selecciona Add y, después, Create.
-
 00:00:20.000 --> 00:00:38.000
 Para crear un evento en AVAnnotate, necesitas algunos datos sobre el propio evento audiovisual. Si ya tienes un manifiesto IIIF para el evento, selecciona Import Manifest y pega su referencia. Si todavía no tienes un manifiesto IIIF, crearemos uno ahora directamente en AVAnnotate.
 

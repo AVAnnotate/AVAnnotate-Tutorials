@@ -184,27 +184,6 @@
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
     },
     {
-      "start_time": 3,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "El video 1a muestra cómo añadir un evento audiovisual cargando una hoja de cálculo completa con información sobre el evento. En este video, te mostraremos cómo crear un evento directamente en AVAnnotate sin cargar una hoja de cálculo. Para crear un evento, selecciona Add y, después, Create."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "c94c2692-0f1f-4e3e-a55f-e7ab5a8afa44"
-    },
-    {
       "start_time": 20,
       "end_time": 38,
       "annotation": [
