@@ -184,27 +184,6 @@
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
     },
     {
-      "start_time": 105,
-      "end_time": 114,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La excepción a esta regla son los enlaces de plataformas como YouTube: AVAnnotate puede utilizar la URL de un video de YouTube al crear un evento."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "e42e738a-ed83-46cc-b2f8-06737304e1f9"
-    },
-    {
       "start_time": 115,
       "end_time": 137,
       "annotation": [
