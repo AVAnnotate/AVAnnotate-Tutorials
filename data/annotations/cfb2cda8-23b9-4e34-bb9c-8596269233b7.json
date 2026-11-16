@@ -191,27 +191,6 @@
           "tag": "Manuscrito"
         }
       ],
-      "uuid": "43345db8-d65e-4136-b546-d8b107399bf5"
-    },
-    {
-      "start_time": 113,
-      "end_time": 118,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Una vez configurados los datos, debería aparecer la opción Import. Selecciona Import y, después, Save Event."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
       "uuid": "ffdccdad-d204-4884-93b1-7e98d0debfeb"
     }
   ]
