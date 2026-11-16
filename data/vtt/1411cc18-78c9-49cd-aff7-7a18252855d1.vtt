@@ -1,0 +1,26 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:20.000
+Video 1a demonstrates how to add an audiovisual event by uploading a completed spreadsheet that contains information about the event. This video will show you how to create an event directly in AVAnnotate without the spreadsheet upload. To “Create” an event, select Add, then “Create.”
+
+00:00:20.000 --> 00:00:38.000
+To create an event in AVAnnotate, you need some information about the audiovisual event itself. If you already have a IIIF manifest for the audiovisual event, select “Import Manifest” and paste in the reference. If you do not have a IIIF manifest yet, we’ll create one now directly in AVAnnotate.
+
+00:00:39.000 --> 00:00:57.000
+IIIF is a framework for delivering high-quality, attributed digital objects online at scale. Creating IIIF manifests allows for the metadata associated with an AVAnnotate project (e.g., rights information, audiovisual materials, annotations, etc.) to be easily shared and reproduced.
+
+00:00:59.000 --> 00:01:28.000
+Select “Create Manifest” and provide a label for your event. Next, add at least one audiovisual item you’d like associated with the event. You should indicate whether the item is audio or video, include the label, and then paste the direct link to the media file. Unlike a URL to a webpage that may end in .com, for example, direct links should always end in the file format (.mp3, .mp4, .wav, etc.).
+
+00:01:29.000 --> 00:01:44.000
+To access a direct link to event media, we recommend locating or uploading the file to the Internet Archive, and then copying the .mp3, .mp4, .wav, etc. from the gray “Download Options” box.
+
+00:01:45.000 --> 00:01:54.000
+The exception to this rule concerns links from platforms such as Youtube; AVAnnotate can handle a URL to a YouTube video when creating an event.
+
+00:01:55.000 --> 00:02:17.000
+Sometimes AVAnnotate can read the duration straight from the file link, though other times you may need to enter it manually using the hh:mm:ss format. This is all of the information that’s required to create an event, but you also have the option to add a description, citation, and select a copyright status or Creative Commons Rights Statement.
+
+00:02:18.000 --> 00:02:21.000
+To finalize your event, select “Save.”
+
