@@ -145,27 +145,6 @@
       "uuid": "e751b8b8-88e9-4b65-ace8-b14e056005a6"
     },
     {
-      "start_time": 35,
-      "end_time": 68,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Primero, introduce el tiempo de inicio de la anotación en el formato HH:MM:SS. En el campo End Time, introduce el tiempo de finalización usando el mismo formato. Debajo, puedes escribir la anotación directamente en el recuadro y utilizar los botones de la parte superior para dar formato al texto. Por último, añade al menos una etiqueta a la anotación seleccionándola en el menú desplegable. Ten en cuenta que debes haber añadido previamente esa etiqueta a AVAnnotate siguiendo las instrucciones del video 2a o 2b."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "2f25d233-13ba-4283-a326-4c4f1c36bcf7"
-    },
-    {
       "start_time": 70,
       "end_time": 75,
       "annotation": [
