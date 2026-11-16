@@ -236,27 +236,6 @@
       "uuid": "8a38f32b-d897-4263-a2f5-16ada972f40f"
     },
     {
-      "start_time": 56,
-      "end_time": 71,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Primero, debemos añadir un evento seleccionando Add y, después, Import. Al importar un evento, le indicas a AVAnnotate que ya tienes un archivo con toda la información necesaria para que la aplicación pueda hacer referencia a tu archivo audiovisual."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "e9067332-e537-47ac-a292-ee222c28fe82"
-    },
-    {
       "start_time": 72,
       "end_time": 89,
       "annotation": [
