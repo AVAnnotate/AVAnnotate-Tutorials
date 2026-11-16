@@ -145,27 +145,6 @@
       "uuid": "e751b8b8-88e9-4b65-ace8-b14e056005a6"
     },
     {
-      "start_time": 3,
-      "end_time": 18,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La segunda opción para cargar anotaciones en un evento audiovisual de AVAnnotate es añadirlas individualmente. Esta opción no requiere una hoja de cálculo. Puedes añadir anotaciones individuales mediante la opción Add de un evento audiovisual."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "27048343-cceb-45ed-ac35-4fc27780214d"
-    },
-    {
       "start_time": 19,
       "end_time": 34,
       "annotation": [
