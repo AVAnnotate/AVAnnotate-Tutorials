@@ -184,27 +184,6 @@
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
     },
     {
-      "start_time": 59,
-      "end_time": 88,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Selecciona Create Manifest e introduce un nombre para tu evento. A continuación, añade al menos un elemento audiovisual que quieras asociar al evento. Debes indicar si es audio o video, incluir su nombre y pegar el enlace directo al archivo multimedia. A diferencia de la URL de una página web, que puede terminar en .com, por ejemplo, los enlaces directos siempre deben terminar con la extensión del archivo: .mp3, .mp4, .wav, etc."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "199e74c4-5ae2-4791-8318-8470249c09b9"
-    },
-    {
       "start_time": 89,
       "end_time": 104,
       "annotation": [

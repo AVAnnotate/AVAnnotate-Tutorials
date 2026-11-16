@@ -24,9 +24,6 @@ Sometimes AVAnnotate can read the duration straight from the file link, though o
 00:02:18.000 --> 00:02:21.000
 To finalize your event, select “Save.”
 
-00:00:59.000 --> 00:01:28.000
-Selecciona Create Manifest e introduce un nombre para tu evento. A continuación, añade al menos un elemento audiovisual que quieras asociar al evento. Debes indicar si es audio o video, incluir su nombre y pegar el enlace directo al archivo multimedia. A diferencia de la URL de una página web, que puede terminar en .com, por ejemplo, los enlaces directos siempre deben terminar con la extensión del archivo: .mp3, .mp4, .wav, etc.
-
 00:01:29.000 --> 00:01:44.000
 Para obtener un enlace directo al archivo multimedia del evento, recomendamos localizarlo o subirlo a Internet Archive y, después, copiar el enlace al archivo .mp3, .mp4, .wav, etc., desde el recuadro gris Download Options.
 
