@@ -404,27 +404,6 @@
       "uuid": "43345db8-d65e-4136-b546-d8b107399bf5"
     },
     {
-      "start_time": 43,
-      "end_time": 55,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "La pestaña Tags permite cargar, crear y editar etiquetas y grupos de etiquetas para todo el proyecto. Las etiquetas se utilizan en un proyecto publicado de AVAnnotate para indexar, organizar y descubrir temas en las anotaciones."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "7e6102b2-505e-4af0-9e4c-9697354ef557"
-    },
-    {
       "start_time": 56,
       "end_time": 71,
       "annotation": [
