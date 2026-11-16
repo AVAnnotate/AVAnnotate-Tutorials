@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tienes dos opciones para cargar anotaciones en tu evento audiovisual de AVAnnotate. La primera consiste en crear las anotaciones en una plantilla de Google Sheets disponible en la documentación e importar esa plantilla en la sección Data Manager de AVAnnotate. La segunda consiste en añadir anotaciones individuales al evento audiovisual directamente en Data Manager. En este video, te mostraremos cómo hacerlo con la primera opción."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "30c73ed6-5458-4ba3-b4c6-41d79c1d5b63"
+    },
+    {
+      "start_time": 27,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Abre la documentación de AVAnnotate. Después, ve a la pestaña Projects, donde encontrarás Annotation Spreadsheet Template en la sección Bulk Uploading. Selecciona el enlace y crea una copia del archivo seleccionando File y, después, Make a Copy. No elimines los encabezados de la fila 1."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "4d86f534-334f-41ba-9436-962ed52b47a0"
+    },
+    {
+      "start_time": 47,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora puedes empezar a añadir tus anotaciones. En la columna A, introduce el tiempo de inicio de la anotación en el formato HH:MM:SS. A continuación, en la columna B, introduce el tiempo de finalización usando el mismo formato. En la columna C, incluirás el texto de la anotación; puedes escribir directamente en esta celda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "8b7d9210-3bcf-45d9-8df4-e04949a1b093"
+    },
+    {
+      "start_time": 70,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ten en cuenta que puedes utilizar etiquetas HTML básicas en el cuerpo de las anotaciones para dar formato al texto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0708713c-800a-4795-9842-2400cf1b1342"
+    },
+    {
+      "start_time": 76,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por último, añade al menos una etiqueta que corresponda a la anotación, escribiendo su nombre en la columna D. Puedes añadir varias etiquetas a una anotación separándolas con el símbolo de barra vertical (|) de tu teclado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "55771919-304d-4c14-bd78-2c9ab4435f5d"
+    },
+    {
+      "start_time": 89,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez que hayas añadido a la plantilla todas las anotaciones de un evento audiovisual, selecciona File y, después, Download. Se recomienda guardar el archivo como una hoja de cálculo de Microsoft Excel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "79c4ff79-5e5c-424d-9451-2f4a31665987"
+    },
+    {
+      "start_time": 102,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por último, vuelve a AVAnnotate. En Data Manager, selecciona el evento audiovisual al que quieras asociar el archivo de anotaciones. Debajo del audio, verás que el evento no tiene anotaciones asociadas. Selecciona Import, elige el archivo de anotaciones de tu unidad y, a continuación, se te pedirá que configures los datos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f4f88fc9-b323-4148-9780-40fc3e8664cf"
+    },
+    {
+      "start_time": 125,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comprueba que las columnas correspondan con los datos que has creado y, después, selecciona Import y Save."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "64589917-ed5d-4131-a430-119ee3505aa3"
+    }
+  ],
   "event_id": "bd1384c6-0d39-44ac-9440-8917da2a7c7a",
   "set": "Español",
   "source_id": "aeedc51c-da76-462c-850d-1bf0a9a74e7d"
