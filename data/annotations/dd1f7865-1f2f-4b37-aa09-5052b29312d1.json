@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este video, te mostraremos cómo publicar tu proyecto de AVAnnotate como un sitio estático para que pueda alojarse localmente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0b82fbb8-c3bd-4a86-9b59-26d5e759668a"
+    },
+    {
+      "start_time": 10,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La segunda opción para publicar tu proyecto de AVAnnotate es crear un sitio estático en tu repositorio de GitHub. Esta opción no utiliza GitHub Pages y, por lo tanto, no crea de inmediato un sitio web de acceso público. En su lugar, crea un repositorio adicional en tu proyecto de AVAnnotate en GitHub que puede alojarse localmente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "12badee4-15c4-48f8-87c6-95e75f4d7234"
+    },
+    {
+      "start_time": 33,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para crear un repositorio de sitio estático en tu proyecto de GitHub, dirígete a la sección Site Builder. Allí, selecciona Publish y confirma que Static Site esté seleccionado como el tipo de sitio que deseas publicar. Selecciona Publish una vez más."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "6cfad485-24d3-43ca-86e1-807123409f0b"
+    },
+    {
+      "start_time": 49,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora puedes descargar tu proyecto de AVAnnotate. Para encontrar el repositorio de GitHub del proyecto, ve a la página principal del proyecto en el panel de AVAnnotate, haz clic en el menú de tres puntos y selecciona Repository. Haz clic en el botón verde Code, selecciona Download ZIP y guarda el archivo .zip en tu computadora."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "9551d74c-bdaf-42e0-81a0-f8e4e401738a"
+    },
+    {
+      "start_time": 71,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para obtener más información y conocer los siguientes pasos, consulta la documentación de AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "4ffdac01-a39c-4d3d-b023-46a14ca9a7b2"
+    }
+  ],
   "event_id": "efac3549-8868-46ec-a6b8-2ecb154a7699",
   "set": "Español",
   "source_id": "d7c8720b-cda8-4ccf-a839-e0d9805d29cd"
