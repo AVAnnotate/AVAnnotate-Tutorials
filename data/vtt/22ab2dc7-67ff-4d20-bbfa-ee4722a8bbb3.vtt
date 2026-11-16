@@ -1,0 +1,14 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:18.000
+The second option you have for uploading annotations to an audiovisual event in AVAnnotate is to add annotations individually. This option does not require using the spreadsheet. Instead, you can add individual annotations through the Add option in an audiovisual event.
+
+00:00:19.000 --> 00:00:34.000
+To add an annotation, navigate to the Data Manager section of AVAnnotate and select an audiovisual event. Next, select the Add button and create an annotation. A box will appear for you to insert information about the annotation you would like to add.
+
+00:00:35.000 --> 00:01:08.000
+First, add the start time of your annotation using the format of HH:MM:SS. In the End Time box, add the end time of your annotation in the same format. Below, you can type your annotation directly into the box and use the above buttons to style your text. Lastly, add at least one tag to your annotation by selecting a tag from the drop-down menu. Please note that you must have already added such a tag to AVAnnotate via the instructions in video 2a or 2b.
+
+00:01:10.000 --> 00:01:15.000
+Lastly, select Save to add your annotation to the audiovisual file.
+
