@@ -24,9 +24,6 @@ Sometimes AVAnnotate can read the duration straight from the file link, though o
 00:02:18.000 --> 00:02:21.000
 To finalize your event, select “Save.”
 
-00:01:55.000 --> 00:02:17.000
-A veces, AVAnnotate puede detectar la duración directamente a partir del enlace al archivo. En otras ocasiones, tendrás que introducirla manualmente en el formato hh:mm:ss. Esta es toda la información necesaria para crear un evento, pero también puedes añadir una descripción y una referencia bibliográfica, así como seleccionar un estado de derechos de autor o una declaración de derechos de Creative Commons.
-
 00:02:18.000 --> 00:02:21.000
 Para terminar de crear tu evento, selecciona Save.
 

@@ -184,27 +184,6 @@
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
     },
     {
-      "start_time": 115,
-      "end_time": 137,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A veces, AVAnnotate puede detectar la duración directamente a partir del enlace al archivo. En otras ocasiones, tendrás que introducirla manualmente en el formato hh:mm:ss. Esta es toda la información necesaria para crear un evento, pero también puedes añadir una descripción y una referencia bibliográfica, así como seleccionar un estado de derechos de autor o una declaración de derechos de Creative Commons."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "1208c7fd-5fd0-4fb6-90dd-1f009679a230"
-    },
-    {
       "start_time": 138,
       "end_time": 141,
       "annotation": [
