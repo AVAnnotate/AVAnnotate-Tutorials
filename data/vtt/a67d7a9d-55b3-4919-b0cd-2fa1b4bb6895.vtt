@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:17.000
+Once you’ve built a project and imported or added your audiovisual events, you’re ready to add Tags to the project. Tags are short, descriptive words or phrases that will help you categorize and filter your timestamped annotations across the entire project.
+
+00:00:18.000 --> 00:00:32.000
+To import Tags, we’ll start in the Data Manager section, and then toggle over to Tags. As with the “import” option for Events, “Import” in this case means we have already filled out a Tag spreadsheet template and are ready to upload it into AVAnnotate.
+
+00:00:33.000 --> 00:00:42.000
+Select “Import,” and then choose your Tag file. Configure the data so that the column headers match the data you’re importing, which should enable the “Import” option.
+
+00:00:43.000 --> 00:00:48.000
+Double check that the preview of the imported data matches your spreadsheet, and then select “Save.”
+
+00:00:49.000 --> 00:00:53.000
+Now your Tags section will be populated with Tag groups and individual tags.
+
+00:00:54.000 --> 00:01:10.000
+You can edit a Tag group by selecting the three-dot menu, and edit individual tags by selecting the pencil icon. Here you can rename a tag or move it into a different tag group using the dropdown menu. You can edit tags at any time.
+
