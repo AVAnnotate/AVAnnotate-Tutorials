@@ -1,5 +1,132 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una vez que hayas creado un proyecto e importado o añadido tus eventos audiovisuales, puedes añadir etiquetas al proyecto. Las etiquetas son palabras o frases breves y descriptivas que te ayudarán a clasificar y filtrar las anotaciones con marcas de tiempo en todo el proyecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "cf29e70b-8b80-4433-a348-ff6559572f60"
+    },
+    {
+      "start_time": 18,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para importar etiquetas, comenzaremos en la sección Data Manager y pasaremos a la pestaña Tags. Al igual que la opción de importar eventos, Import significa aquí que ya hemos completado una plantilla de etiquetas en una hoja de cálculo y estamos listos para cargarla en AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "5d4f3c84-73d9-49be-a566-473c885f2994"
+    },
+    {
+      "start_time": 33,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Selecciona Import y, después, elige tu archivo de etiquetas. Configura los datos para que los encabezados de las columnas correspondan con los datos que estás importando. Esto debería habilitar la opción Import."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "38acd3f5-0821-4362-b4b0-10d6886a9fe8"
+    },
+    {
+      "start_time": 43,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comprueba que la vista previa de los datos importados coincida con tu hoja de cálculo y, después, selecciona Save."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "8c7216f0-94a9-438f-b4a2-ec1f5ebc40fe"
+    },
+    {
+      "start_time": 49,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora, la sección Tags mostrará los grupos de etiquetas y las etiquetas individuales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "6661638d-8520-4c99-bf4d-70ac7113758e"
+    },
+    {
+      "start_time": 54,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puedes editar un grupo de etiquetas seleccionando el menú de tres puntos y editar las etiquetas individuales seleccionando el icono del lápiz. Aquí puedes cambiar el nombre de una etiqueta o moverla a otro grupo mediante el menú desplegable. Puedes editar las etiquetas en cualquier momento."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "9e9b45d1-38ae-4b6d-8892-fb4cf7ef9ef7"
+    }
+  ],
   "event_id": "63ed856c-1a8a-4af8-9612-0c65cd45b239",
   "set": "Español",
   "source_id": "5f0a480a-2dbc-4681-a392-2b81adc7b0fe"
