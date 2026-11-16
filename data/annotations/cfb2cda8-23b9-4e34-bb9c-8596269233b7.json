@@ -362,27 +362,6 @@
       "uuid": "fb207f07-f324-41bb-9a91-77d0ea4ece04"
     },
     {
-      "start_time": 19,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "En la sección Data Manager, quien crea un proyecto puede importar, cargar, editar y añadir todos los datos asociados a las anotaciones, los eventos y las etiquetas. La pestaña Events permite cargar, crear y editar eventos. Los eventos son un elemento conceptual central de un proyecto de AVAnnotate y pueden incluir uno o más archivos audiovisuales, a los que se pueden asociar anotaciones con marcas de tiempo."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "a1a63d58-7e6f-422a-b147-52081273a28f"
-    },
-    {
       "start_time": 43,
       "end_time": 55,
       "annotation": [
