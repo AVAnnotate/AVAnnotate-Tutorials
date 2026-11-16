@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este video te mostrará cómo personalizar el aspecto de las páginas en blanco. Para ver ejemplos de cómo otras personas han personalizado las páginas de sus proyectos, consulta la documentación y el sitio web de AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "d5661bb8-1406-4835-b82a-b39e8f65613c"
+    },
+    {
+      "start_time": 16,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para personalizar una nueva página en blanco de tu proyecto, utilizarás el editor de texto. De izquierda a derecha, las opciones son: definir el diseño de la página mediante el ancho de las columnas y las líneas horizontales; deshacer o rehacer cambios; seleccionar el formato del texto y de los encabezados mediante el menú desplegable; aplicar negrita, cursiva, subrayado o tachado; insertar código; insertar un bloque de cita; cambiar el color de fondo del texto y el del propio texto; insertar listas numeradas o con viñetas; crear un índice; justificar el texto; e insertar un enlace o una imagen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "c3b5fe0c-0e0d-4fba-b429-7502f6325573"
+    },
+    {
+      "start_time": 55,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al insertar columnas, cambias la distribución de los materiales en la página, dividiéndola en columnas de distintos tamaños. Puedes personalizar el contenido de las columnas mediante las demás funciones del editor de texto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "f03744df-9e00-423f-a9ba-c86aaeba78d9"
+    },
+    {
+      "start_time": 70,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inserta imágenes en la página en blanco utilizando el botón situado más a la derecha. Recuerda que AVAnnotate no almacena tus archivos multimedia, sino que hace referencia a ellos mediante sus URL. Por eso, las imágenes que añadas a una página personalizada deben incorporarse mediante la dirección del enlace a la imagen, en lugar de utilizar un archivo guardado en tu dispositivo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "9998552c-7952-4cad-a67b-b48f6e561b7c"
+    },
+    {
+      "start_time": 90,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Selecciona Save para guardar estos cambios en tu proyecto de AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "7f9c8386-b619-4af1-9bc6-3212b223bceb"
+    }
+  ],
   "event_id": "ce229b17-1949-41aa-a5ac-1d1ee4357541",
   "set": "Español",
   "source_id": "272c6759-a952-4d0c-9b3f-788df0d06c2b"
