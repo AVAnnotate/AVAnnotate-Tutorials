@@ -173,27 +173,6 @@
       "uuid": "78fca9ab-e68e-491c-831f-079081727c38"
     },
     {
-      "start_time": 90,
-      "end_time": 106,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Una vez que hayas completado la hoja de cálculo de eventos y la hayas seleccionado para cargarla en AVAnnotate, se te pedirá que configures los datos del archivo. Esto permite comprobar que AVAnnotate los interpreta correctamente. Usa los menús desplegables para establecer la correspondencia con la información de tu hoja de cálculo."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "b10b58c4-825d-409b-8a4b-072568aaada9"
-    },
-    {
       "start_time": 113,
       "end_time": 118,
       "annotation": [
