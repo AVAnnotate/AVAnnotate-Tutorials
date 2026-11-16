@@ -145,27 +145,6 @@
       "uuid": "e751b8b8-88e9-4b65-ace8-b14e056005a6"
     },
     {
-      "start_time": 19,
-      "end_time": 34,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Para añadir una anotación, ve a la sección Data Manager de AVAnnotate y selecciona un evento audiovisual. Después, selecciona el botón Add y crea una anotación. Aparecerá un recuadro en el que podrás introducir la información de la anotación que quieras añadir."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "28c09aee-d0de-4726-80af-606a68a121f9"
-    },
-    {
       "start_time": 35,
       "end_time": 68,
       "annotation": [
