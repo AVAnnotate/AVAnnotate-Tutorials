@@ -182,6 +182,174 @@
         }
       ],
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
+    },
+    {
+      "start_time": 3,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El video 1a muestra cómo añadir un evento audiovisual cargando una hoja de cálculo completa con información sobre el evento. En este video, te mostraremos cómo crear un evento directamente en AVAnnotate sin cargar una hoja de cálculo. Para crear un evento, selecciona Add y, después, Create."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "c94c2692-0f1f-4e3e-a55f-e7ab5a8afa44"
+    },
+    {
+      "start_time": 20,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para crear un evento en AVAnnotate, necesitas algunos datos sobre el propio evento audiovisual. Si ya tienes un manifiesto IIIF para el evento, selecciona Import Manifest y pega su referencia. Si todavía no tienes un manifiesto IIIF, crearemos uno ahora directamente en AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "b09f62c1-d5a9-484e-ba13-e2a0e58253ae"
+    },
+    {
+      "start_time": 39,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "IIIF es un marco que permite ofrecer en línea, a gran escala, objetos digitales de alta calidad con su atribución correspondiente. La creación de manifiestos IIIF facilita que los metadatos asociados a un proyecto de AVAnnotate, como la información sobre derechos, los materiales audiovisuales y las anotaciones, se compartan y reproduzcan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "b0e53a47-fa28-448f-8c8c-c399edb31680"
+    },
+    {
+      "start_time": 59,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Selecciona Create Manifest e introduce un nombre para tu evento. A continuación, añade al menos un elemento audiovisual que quieras asociar al evento. Debes indicar si es audio o video, incluir su nombre y pegar el enlace directo al archivo multimedia. A diferencia de la URL de una página web, que puede terminar en .com, por ejemplo, los enlaces directos siempre deben terminar con la extensión del archivo: .mp3, .mp4, .wav, etc."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "199e74c4-5ae2-4791-8318-8470249c09b9"
+    },
+    {
+      "start_time": 89,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para obtener un enlace directo al archivo multimedia del evento, recomendamos localizarlo o subirlo a Internet Archive y, después, copiar el enlace al archivo .mp3, .mp4, .wav, etc., desde el recuadro gris Download Options."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "e2994521-0b5e-4567-8eff-e8e56fef0261"
+    },
+    {
+      "start_time": 105,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La excepción a esta regla son los enlaces de plataformas como YouTube: AVAnnotate puede utilizar la URL de un video de YouTube al crear un evento."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "e42e738a-ed83-46cc-b2f8-06737304e1f9"
+    },
+    {
+      "start_time": 115,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A veces, AVAnnotate puede detectar la duración directamente a partir del enlace al archivo. En otras ocasiones, tendrás que introducirla manualmente en el formato hh:mm:ss. Esta es toda la información necesaria para crear un evento, pero también puedes añadir una descripción y una referencia bibliográfica, así como seleccionar un estado de derechos de autor o una declaración de derechos de Creative Commons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "1208c7fd-5fd0-4fb6-90dd-1f009679a230"
+    },
+    {
+      "start_time": 138,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para terminar de crear tu evento, selecciona Save."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "62fc5cbd-d50e-473a-be8d-882309efafb6"
     }
   ]
 }

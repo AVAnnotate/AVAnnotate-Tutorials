@@ -24,3 +24,27 @@ Sometimes AVAnnotate can read the duration straight from the file link, though o
 00:02:18.000 --> 00:02:21.000
 To finalize your event, select “Save.”
 
+00:00:03.000 --> 00:00:20.000
+El video 1a muestra cómo añadir un evento audiovisual cargando una hoja de cálculo completa con información sobre el evento. En este video, te mostraremos cómo crear un evento directamente en AVAnnotate sin cargar una hoja de cálculo. Para crear un evento, selecciona Add y, después, Create.
+
+00:00:20.000 --> 00:00:38.000
+Para crear un evento en AVAnnotate, necesitas algunos datos sobre el propio evento audiovisual. Si ya tienes un manifiesto IIIF para el evento, selecciona Import Manifest y pega su referencia. Si todavía no tienes un manifiesto IIIF, crearemos uno ahora directamente en AVAnnotate.
+
+00:00:39.000 --> 00:00:57.000
+IIIF es un marco que permite ofrecer en línea, a gran escala, objetos digitales de alta calidad con su atribución correspondiente. La creación de manifiestos IIIF facilita que los metadatos asociados a un proyecto de AVAnnotate, como la información sobre derechos, los materiales audiovisuales y las anotaciones, se compartan y reproduzcan.
+
+00:00:59.000 --> 00:01:28.000
+Selecciona Create Manifest e introduce un nombre para tu evento. A continuación, añade al menos un elemento audiovisual que quieras asociar al evento. Debes indicar si es audio o video, incluir su nombre y pegar el enlace directo al archivo multimedia. A diferencia de la URL de una página web, que puede terminar en .com, por ejemplo, los enlaces directos siempre deben terminar con la extensión del archivo: .mp3, .mp4, .wav, etc.
+
+00:01:29.000 --> 00:01:44.000
+Para obtener un enlace directo al archivo multimedia del evento, recomendamos localizarlo o subirlo a Internet Archive y, después, copiar el enlace al archivo .mp3, .mp4, .wav, etc., desde el recuadro gris Download Options.
+
+00:01:45.000 --> 00:01:54.000
+La excepción a esta regla son los enlaces de plataformas como YouTube: AVAnnotate puede utilizar la URL de un video de YouTube al crear un evento.
+
+00:01:55.000 --> 00:02:17.000
+A veces, AVAnnotate puede detectar la duración directamente a partir del enlace al archivo. En otras ocasiones, tendrás que introducirla manualmente en el formato hh:mm:ss. Esta es toda la información necesaria para crear un evento, pero también puedes añadir una descripción y una referencia bibliográfica, así como seleccionar un estado de derechos de autor o una declaración de derechos de Creative Commons.
+
+00:02:18.000 --> 00:02:21.000
+Para terminar de crear tu evento, selecciona Save.
+
