@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:15.000
+Publishing and sharing your AVAnnotate project happens in the Site Builder section. You can publish your project as either a GitHub Pages site or a static site. In this video, we will show you how to publish your project via GitHub Pages.
+
+00:00:16.000 --> 00:00:29.000
+First, let’s look at the GitHub Pages option. GitHub Pages is a static site hosting service, which means that it will use material in your AVAnnotate project’s GitHub repository to deploy a publicly-viewable website.
+
+00:00:30.000 --> 00:00:35.000
+To deploy your AVAnnotate project via GitHub pages, navigate to the Site Builder section. 
+
+00:00:35.000 --> 00:00:55.000
+From there, select Publish and confirm that GitHub Pages Site is selected as the type of site you would like to publish. Select Publish once more, and wait 30 seconds to a few minutes for GitHub to process your project. Please be patient— do not re-publish your project until this process is completed.
+
+00:00:57.000 --> 00:01:04.000
+Finally, select the three-dot menu and select Website to view your published AVAnnotate project.
+
