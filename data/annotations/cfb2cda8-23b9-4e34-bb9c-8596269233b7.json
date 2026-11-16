@@ -299,27 +299,6 @@
       "uuid": "43345db8-d65e-4136-b546-d8b107399bf5"
     },
     {
-      "start_time": 72,
-      "end_time": 89,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Para ello, recomendamos usar la plantilla de eventos de AVAnnotate, disponible en nuestro sitio web. Esta plantilla es una hoja de cálculo descargable con campos para introducir el nombre del evento, el tipo de elemento, el nombre del archivo, su URL y, de forma opcional, una referencia bibliográfica y una descripción."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "399f46bd-67f0-47ed-940b-466b23a8e57f"
-    },
-    {
       "start_time": 90,
       "end_time": 106,
       "annotation": [
