@@ -184,27 +184,6 @@
       "uuid": "034e6350-d533-4678-955c-1fce2b2f499d"
     },
     {
-      "start_time": 20,
-      "end_time": 38,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Para crear un evento en AVAnnotate, necesitas algunos datos sobre el propio evento audiovisual. Si ya tienes un manifiesto IIIF para el evento, selecciona Import Manifest y pega su referencia. Si todavía no tienes un manifiesto IIIF, crearemos uno ahora directamente en AVAnnotate."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Manuscrito"
-        }
-      ],
-      "uuid": "b09f62c1-d5a9-484e-ba13-e2a0e58253ae"
-    },
-    {
       "start_time": 39,
       "end_time": 57,
       "annotation": [
