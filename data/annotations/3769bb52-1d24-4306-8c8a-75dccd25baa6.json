@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La publicación y el uso compartido de tu proyecto de AVAnnotate se realizan en la sección Site Builder. Puedes publicar el proyecto como un sitio de GitHub Pages o como un sitio estático. En este video, te mostraremos cómo publicarlo mediante GitHub Pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "32034d50-6da9-45f8-925a-542ed8f20d18"
+    },
+    {
+      "start_time": 16,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Primero, veamos la opción de GitHub Pages. GitHub Pages es un servicio de alojamiento de sitios estáticos. Esto significa que utilizará los materiales del repositorio de GitHub de tu proyecto de AVAnnotate para publicar un sitio web de acceso público."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "5fb106ac-195d-4ea7-a961-7c66c15c66a4"
+    },
+    {
+      "start_time": 30,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para publicar tu proyecto de AVAnnotate mediante GitHub Pages, ve a la sección Site Builder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "bb5887a9-e7da-4bfb-a4b7-1cba725c61d5"
+    },
+    {
+      "start_time": 35,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Allí, selecciona Publish y confirma que GitHub Pages Site esté seleccionado como el tipo de sitio que deseas publicar. Selecciona Publish una vez más y espera entre 30 segundos y unos minutos a que GitHub procese el proyecto. Ten paciencia: no vuelvas a publicar el proyecto hasta que este proceso haya terminado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "0d63d389-e90e-48a1-a163-00f9a7eb5f6e"
+    },
+    {
+      "start_time": 57,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por último, abre el menú de tres puntos y selecciona Website para ver tu proyecto publicado de AVAnnotate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manuscrito"
+        }
+      ],
+      "uuid": "e33ccd8d-25ca-434b-9839-ec2d3a5e5682"
+    }
+  ],
   "event_id": "11de8de8-cc31-405c-b656-84fd34f08cb8",
   "set": "Español",
   "source_id": "6eb566e3-398f-48db-931a-ba281a88d3fe"
